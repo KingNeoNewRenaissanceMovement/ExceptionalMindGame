@@ -2,9 +2,11 @@ HOW TO CONTRIBUTE.
 
 WARNING: Before contributing we suggest to download the free demo in our website, see the two video tutorials in YouTube, (to learn how to play) and read the book with the long answers of the 94 questions. (You can read for free an extract in the website as well). We also encourage to read the King Neo New Renaissance Movement page and the GitHub Open-Source Projects page both in our website too. 
 
-Contribute in 3 steps. 
+Before all, you need to fork this repository and clone it in your own account to make the changes there and after pull a request.
 
-STEP 1: Build the TEXT-FORMAT (in two parts):
+After forking this repository, you can contribute in 3 simple steps. 
+
+STEP 1: Build the TEXT-FORMAT (text in two parts):
 
 TEXT PART 1 (CC-BY-ND license)
 1.	In the main, open the 94QuestionsAndAnswersText doc.
