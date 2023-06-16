@@ -1,1 +1,27 @@
-Before contributing we suggest to download the free demo in our website, see the two video tutorials in YouTube, (to learn how to play) and read the book with the long answers of the 94 questions. (You can read for free an extract in the website as well). We also encourage to read the King Neo New Renaissance Movement page in or website too. 
+HOW TO CONTRIBUTE.
+
+WARNING: Before contributing we suggest to download the free demo in our website, see the two video tutorials in YouTube, (to learn how to play) and read the book with the long answers of the 94 questions. (You can read for free an extract in the website as well). We also encourage to read the King Neo New Renaissance Movement page and the GitHub Open-Source Projects page both in our website too. 
+
+Contribute in 3 steps. 
+
+STEP 1: Build the TEXT-FORMAT (in two parts):
+
+TEXT PART 1 (CC-BY-ND license)
+1.	In the main, open the 94QuestionsAndAnswersText doc.
+2.	Choose one of the 94 questions to make your video (copy the whole line).
+3.	Open the TEXT-FORMAT doc. Paste the text of the question and answer at the top, under the title “PART 1”. (Write between parenthesis the description of the images and audios you would like to connect them to. Be sure to follow the aesthetics conditions of this license).
+4.	Next, paste the AttributionText of your choice. (Find the AttributionText options in the AttributionText folder. Choose, copy and paste one. Write between parenthesis the images and audios you want to connect them to, but following the aesthetics conditions). 
+
+TEXT PART 2 (CC-BY-SA license)
+1.	Create your own text for a better explanation of the text of part 1. Choose the text you like. It can be a didactic educational animation, or an audio-visual abstract using shapes explanation, or a story of a short film with animated characters. Whatever your choice, be sure it is connected to the text of part 1 and your choice enhance the explanation. We suggest to read the long answer in the book to expand your knowledge of the answer. (After you have the text of the 2nd part of the video, one more time, write between parenthesis the description of the images and audios you want to connect them to and, again, be sure to follow the aesthetics conditions). Also be aware of the total time of the video.
+2.	Write the text of your attribution (your name or company) and repeat the attribution of part 1.
+3.	Once you have ended it, save it in the numbered folder for the question number you selected. For instance, if you are John Doe and selected question number 1, save it inside the folder called “contributors_formats”. Inside you will find 94 folders, each for one question. The “q_1” folder contains the contributors’ formats for question 1; the “q_2” folder contains the contributors’ formats for question 2 and so forth. As John Doe, name your text document as: “q_1_text_john_doe.html”.
+
+STEP 2: Create or choose your visual and audio material
+
+1.	Create your own creations and be sure not to use others under copyright.
+2.	Store your creation in the proper folder (images, animations, draws, blender, etc.).
+3.	Identify the document like this: “q_1_image_john_doe.png” in case of an image or “q_1_music_john_doe.mp3” in case of music.
+
+STEP 3: Edit the video using the text and elements you selected and a video editor of your preference.
+
