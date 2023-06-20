@@ -16,8 +16,6 @@ In the second part of each video (around 90% of its lenght), you can add more te
     
 # FORK THE REPOSITORY
 Before all, you need to fork this repository and clone it into your own account. You will make the changes there and after you will pull a request.
-Now let us see the three steps to make a video.
-After forking this repository, follow this 3 SIMPLE STEPS.
 
 # 3 STEPS TO MAKE A VIDEO
 
