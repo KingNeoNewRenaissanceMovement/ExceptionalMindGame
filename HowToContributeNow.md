@@ -17,7 +17,9 @@ In the second part of each video (around 90% of its lenght), you can add more te
 # FORK THE REPOSITORY
 Before all, you need to fork this repository and clone it into your own account. You will make the changes there and after you will pull a request.
 
+
 # 3 STEPS TO MAKE A VIDEO
+
 
 ## STEP 1: Build the TEXT-FORMAT (text in two parts):
 
