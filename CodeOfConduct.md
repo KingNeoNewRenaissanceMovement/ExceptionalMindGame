@@ -1,13 +1,51 @@
-# Code of conduct
+# CODE OF CONDUCT
 
-## Introduction
+## INTRODUCTION
 
-The premise here is that nobody in this community is against its will. This Code of Conduct here is like the rules of any sport. If somebody don’t like this sport and don't agree with its rules, he can find other in another place. 
-The first thing to say of this introduction, is that this is a good faith community. It is a community of high-educated people (including self-taught people). It is a community of good-faith-rational-individuals who are here with no ulterior purpose except to produce artistic videos and upload them to YouTube. In relation to "art", we understand art as beauty derived from nature’s order. Here we use art in regard to enrich the explanation of the 94 questions and answers of the philosophical-quiz-game. Everybody is free to join or leave the community as many times as it wishes. But anyone who violates this Code of Conduct will lose his reputation inside the community and will not be allowed to come back again. This Code of Conduct begins with the basic of following the law of the person’s country. This mean that people with criminal trials or charges, national or international, cannot join or stay in the community. No member of this community can be in illegal conducts, such as the use of drugs or any other illegal criminal activity. Dishonest members with hidden agendas against the objectives of this community cannot join or stay. Again, the only purpose of this community is to "create videos and upload them to YouTube, to enhance the explanations (in beautiful artistic ways) of the 94 questions and answers of the philosophical-quiz-game called Exceptional Mind". Members of this community that are part of any other community, public or secret, they must act in good faith for to not produce this video with ulterior hidden purposes. The videos cannot be created to promote political agendas or ideologic movements, such as climate change, gender ideology or any other. We do not participate in irrational cultural actions. Our sole objective is academic, intellectual and neutral, technological, objective, artistic and scientific. We do not get involved in political campaigns or cultural propaganda. Although in this community we don’t discriminate gender, age, ethnicity, country or religion, we call high-educated moral persons of any race and in any country who share our values. We look persons with a rational, secular and scientific approach to life, and with a great ambition to create art, but art as an aesthetic natural experience of pleasure, art as beauty derived from nature’s order. Again, we don't use art as a political weapon or instrument of propaganda. Our time conext is millenia and centuries, the evolution of the human species, the future of humanity for the next ten thousend years. We don't belong or have any government founding from public or secret institutions. 
-Not everybody needs to agree with our values, but those who do, we like to share with them and grow our talents together to expand the philosophical knowledge contained in the Champion's Renaissance book and the Exceptional Mind philosophical-quiz-game that are based in Aristotle's phylosophy. Because Aristotle defined man as a rational animal, we condemn the irrational and lack of logic as anti-human. Any irrational, ilogic, arbitrary or whim conduct is not tolerated in our community. We respect free will of those who choose to be irrational. We respect those who follow the herd looking for herd conformity. We respect the people who peacefully disagree with us, but we request the same respect to peacefully disagree with their disagreement. When we judge, we judge the argument, not other people. We are alert to tackle fallacies. This is not a place for political debate. That place is private for each member and exists outside this community and repository. Again, the only purpose of this respository is to create videos and upload them to YouTube to enhance the explanation of the 94 questions and answers of the game in a neutral academic scientific rational non emotional view. Here we never criticize other members gender or culture. What we criticize here are technical errors and we share on how to improve the productions of the videos. As it was said, our values are Aristotelian philosophic values. They are well explained in the Champion's Renaissance book. Once again, we respect the absolute facts given by nature, the Law of Indentity, objective truths, technology and science. We are based on observation instead of revelations, and we don’t tolerate rational contradictions or logic dishonesty. 
-Having said all that, here is a list of the Code of Conduct. Once more, we strongly suggest to everybody in the community to read the book and play the game. (Abuse reports can be done in a future email for that. We will take your report seriously). Administrators of the community reserve the right to take whatever action they feel appropriate with regards to the Code of Conduct violations.
+The premise here is that nobody in this community is against its will. This Code of Conduct is like the rules of any sport. If somebody don’t like this sport and don't agree with its rules, he can find other in another place. 
 
-## Good conducts
+#### GOOD FAITH
+
+The first thing to say of this introduction, is that this is a good faith people community. It is a community of high-educated people (including self-taught people). Our only purpose is to produce artistic videos and upload them to YouTube. In relation to "art", we understand art as beauty derived from nature’s order. Here we use art in regard to enrich the explanation of the 94 questions and answers of the philosophical-quiz-game. 
+
+#### RESPECT LOCAL AND INTERNATIONAL LAWS
+
+Everybody is free to join or leave the community as many times as it wishes. But anyone who violates this Code of Conduct will lose his reputation inside the community and will not be allowed to come back again. This Code of Conduct begins with the basic of following the law of the person’s country. This mean that people with criminal trials or charges, national or international, cannot join or stay in the community. No member of this community can be in illegal conducts, such as the use of drugs or any other illegal criminal activity. Dishonest members with hidden agendas against the objectives of this community cannot join or stay. Again, the only purpose of this community is to "create videos and upload them to YouTube, to enhance the explanations (in beautiful artistic ways) of the 94 questions and answers of the philosophical-quiz-game called Exceptional Mind". Members of this community that are part of any other community, public or secret, they must act in good faith for to not produce this video with ulterior hidden purposes. 
+
+#### WHAT NOT TO DO
+
+We do not get involved in political campaigns or cultural propaganda.
+
+The videos cannot be created to promote political agendas or ideologic movements, such as climate change, gender ideology, woke activism or any other. We do not participate in irrational cultural actions. Our sole objective is academic to enhance the quality of critical thinking skills, to elevate the intellectual quality, the technological, objective, artistic and scientific skills. 
+
+#### NO DISCRIMINATION
+
+Although in this community we don’t discriminate gender, age, ethnicity, country or religion, we call high-educated moral persons of any race and in any country who share our values. We look persons with a rational, secular and scientific approach to life, and with a great curiosity and ambition to create art, but art as an aesthetic natural experience of pleasure, art as beauty derived from nature’s order, art as practized by Leonardo da Vinci and Michelangelo. 
+
+#### MILLENIA CONTEXT
+
+Our time conext is not for the next 4 years, tied up to a political agenda or an ephimeral cultural fashion. We make our videos in a time context of centuries and millenia, based in the absolute laws of nature, in the context of the evolution of the human species towards excellence perfecting reason. That is the core of our New Renaissance Movement, compound only by  elevated minds who decided to pursue their own eudaimonia, capable to produce the highest New Humanity for the next ten thousand and more years. 
+
+#### INDEPENDENCE
+
+Our community and actions are independent. We don't belong to political parties or secret societies. We are not financed by governments of any country nor any type of public or secret institutions.  We are just simple individuals, but highly curious, creative and free spirits.
+
+Not everybody needs to agree with our values, but those who do, we like to share with them and grow our talents together to expand the philosophical knowledge contained in the Champion's Renaissance book and the Exceptional Mind philosophical-quiz-game. Again, both are based in Aristotle's phylosophy. 
+
+Because Aristotle defined man as a rational animal, we condemn the irrational and lack of logic as anti-human. Any irrational, ilogic, arbitrary or whim conduct is not tolerated in our community. We respect free will of those who choose to be irrational. 
+
+
+#### MUTUAL RATIONAL RESPECT
+
+We respect those who follow the herd looking for herd conformity. We respect the people who peacefully disagree with us, but we request the same respect to peacefully disagree with their disagreement. When we judge, we judge the argument, not other people. We are alert to tackle fallacies. This is not a place for political debate. That place is private for each member and exists outside this community and repository. Again, the only purpose of this respository is to create videos and upload them to YouTube to enhance the explanation of the 94 questions and answers of the game in a neutral academic scientific rational non emotional view. 
+
+#### MAINTAIN YOUR PRIVATE LIFE PRIVATE
+
+Here we never criticize other members private life, its gender or culture history of its country. What we criticize here are technical errors and we share on how to improve the productions of the videos. As it was said, our values are Aristotelian philosophic values. They are well explained in the Champion's Renaissance book. Once again, we respect the absolute facts given by nature, the Law of Indentity, objective truths, technology and science. We are based on observation instead of revelations, and we don’t tolerate rational contradictions or logic dishonesty. 
+
+Having said all that, here is a list of the Code of Conduct. Once more, we strongly suggest to everybody in the community to read the book and play the game. (Abuse reports can be done in a future email for that. We will take your report seriously). Administrators of the community reserve the right to take whatever action they feel appropiate with regards to the Code of Conduct violations.
+
+## GOOD CCONDUCTS
 
 #### 1 Empathetic rational conversation.
 Be rational and understand that emotions derived from thoughts. Make people feel welcome, supported and never insult or discriminate. Behave as a well-educated aristocrat.
@@ -18,7 +56,7 @@ If somebody disagree with you, breathe, be calm, carry on. Act rationally, ask w
 #### 3 No emotional hysteria.
 Be cool, calm and stylish. Put your rational Neocortex as the ruler of your Paleocortex. Control your chimp rate, as players do when they crown themselves playing the game. Count to 10 before acting. Postpone your opinion or sending an email or insult or saying something in bad faith that you may repent later. Just be patient and wait for 3 days before acting if you are in any kind of emotional irrational storm. Always act controlling your emotions and find the real causes of your exaggerated emotional reaction. Always ride the horse and don’t let the horse ride you. It doesn’t look good.
 
-#### 4 Play the gane ad read the book.
+#### 4 Play the game ad read the book.
 We suggest to read the book and play the game as many times as possible, every month.
 
 #### 5 Never initiate force or deception to others.
