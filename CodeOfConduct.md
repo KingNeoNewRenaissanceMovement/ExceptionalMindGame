@@ -45,7 +45,7 @@ Here we never criticize other members private life, its gender or culture histor
 
 Having said all that, here is a list of the Code of Conduct. Once more, we strongly suggest to everybody in the community to read the book and play the game. (Abuse reports can be done in a future email for that. We will take your report seriously). Administrators of the community reserve the right to take whatever action they feel appropiate with regards to the Code of Conduct violations.
 
-## GOOD CCONDUCTS
+## GOOD CONDUCTS
 
 #### 1 Empathetic rational conversation.
 Be rational and understand that emotions derived from thoughts. Make people feel welcome, supported and never insult or discriminate. Behave as a well-educated aristocrat.
