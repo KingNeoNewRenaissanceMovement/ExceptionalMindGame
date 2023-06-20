@@ -13,7 +13,7 @@ After forking this repository, follow this 3 SIMPLE STEPS.
 
 #### STEP 1: Build the TEXT-FORMAT (text in two parts):
 
-#### TEXT PART 1 (CC BY-ND license)
+####    TEXT PART 1 (CC BY-ND license)
         1.	In the main, open the "94QuestionsAndAnswersText" doc.
         2.	Choose one of the 94 questions to make your video (copy the whole line).
         3.	Open the "TEXT-FORMAT" document in the main. Paste the text of the question and answer at the top, under the title “PART 1”. (Write between parenthesis the description of the images and audios you would like to connect them to. Be sure to follow the luxury-aesthetic-conditions of this license (read the "LuxuryAestethicConditions" documents in the main)).
