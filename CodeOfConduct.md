@@ -10,7 +10,9 @@ Having said all that, here is a list of the Code of Conduct. Once more, we stron
 ## Good conducts
 
 1 Empathetic rational conversation. Be rational and understand that emotions derived from thoughts. Make people feel welcome, supported and never insult or discriminate. Behave as a well-educated aristocrat.
+
 2 Don’t be offended. If somebody disagree with you, breathe, be calm, carry on. Act rationally, ask why and perhaps you can learn something.
+
 3 No emotional hysteria. Be cool, calm and stylish. Put your rational Neocortex as the ruler of your Paleocortex. Control your chimp rate, as players do when they crown themselves playing the game. Count to 10 before acting. Postpone your opinion or sending an email or insult or saying something in bad faith that you may repent later. Just be patient and wait for 3 days before acting if you are in any kind of emotional irrational storm. Always act controlling your emotions and find the real causes of your exaggerated emotional reaction. Always ride the horse and don’t let the horse ride you. It doesn’t look good.
 4 We suggest to read the book and play the game as many times as possible, every month.
 5 Never initiate force or deception to others.
