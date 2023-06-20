@@ -1,11 +1,11 @@
-# HOW TO CONTRIBUTE NOW
+# HOW TO CONTRIBUTE IN 3 SIMPLE STEPS
 
 ### WARNING:
-Before contributing we suggest to download the free demo version of the philosophical-quiz-board-game (no registration required) in our website (https://championsrenaissance.com/shop/). You can see the two video tutorials in YouTube to learn how to play in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). We also suggest to read the Champion's Renaissance book. (It contain the long answers of the 94 questions). You can read for free an extract of the book in the website as well (https://championsrenaissance.com/book-extract-with-no-registration/). We also encourage to read the King Neo New Renaissance Movement page to discover more about its values and motivation (https://championsrenaissance.com/king-neo-new-renaissance-movement/) and the GitHub Open-Source Projects page (https://championsrenaissance.com/github-open-source-projects/). 
+Below you will see the 3 simple steps on how to contribute. But before we suggest to download the free demo version of the philosophical-quiz-board-game (no registration required) in our website (https://championsrenaissance.com/shop/). You also can see the two video tutorials in YouTube to learn how to play in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). We also suggest to read the Champion's Renaissance book. (It contain the long answers of the 94 questions). You can read for free an extract of the book in the website as well (https://championsrenaissance.com/book-extract-with-no-registration/). We also encourage to read the King Neo New Renaissance Movement page to discover more about its values and motivation (https://championsrenaissance.com/king-neo-new-renaissance-movement/) and the GitHub Open-Source Projects page (https://championsrenaissance.com/github-open-source-projects/). 
 
 ## INTRODUCTION
 
-After this introduction read below a 3 STEP guide on how to contribute to produce your video. 
+After this introduction read below a 3 STEP guide on how to contribute. 
 The first thing you need to understand is that each video is made of two parts. 
 
 #### THE FIRST PART OF EACH VIDEO
