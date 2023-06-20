@@ -23,7 +23,7 @@ Before all, you need to fork this repository and clone it into your own account.
 
 ## STEP 1: Build the TEXT-FORMAT (text in two parts):
 
-####    TEXT PART 1 (CC BY-ND license)
+#### TEXT PART 1 (CC BY-ND license)
 1.	In the main, open the "94QuestionsAndAnswersText" document.
 2.	Choose one of the 94 questions for the text of your video (copy the whole text with its number).
 3.	Open the "TEXT-FORMAT" document in the main. Paste the text of the question and answer at the top, under the title “PART 1”. (Write between parenthesis the description of the images and audios you would like to connect them to. Be sure to follow the luxury-aesthetic-conditions of this license (read the "LuxuryAestethicConditions" documents in the main)).
@@ -40,6 +40,6 @@ Before all, you need to fork this repository and clone it into your own account.
 2.	Identify each document with (a) the number of the question, (b) the name to the file and (c) your name (in the following examples, your name will be John and lastname Doe). For images use, for example: “q_1_WhiteRose_JohnDoe.png” or “q_1_SailboatSailingDroneView_JohnDoe.jpge”. For music: “q_1_BachOperture_JohnDoe.mp3”. For sound: “q_1_BigBenBell_JohnDoe.mp3”. For animations: q_1_PyramidAllegoryAnimation_JohnDoe.blend in case for a Blender animation. Follow the same criteria with other format files or extensions.
 3.  Store the document in the proper folder in the main (images, animations, draws, blender, etc.).
 
-## STEP 3: Edition 
+## STEP 3: Edit and upload the video to YouTube
 Edit your video in a video editor of your preference and upload the video to YouTube (without making it public). Make a pull request showing the link of the YouTube video so the maintainers can see it. Make changes if maintainers requires to. Repeat the process untill the video is approved by the maintainers. Then upload the video to YouTube and change its status to PUBLIC. After that, pull a request to save and store the link of your final video in the "ListOfApprovedVideos" folder in the main. (It contains 94 sub-folders, one per question). To save and store your video name it as follows. For example, id the video is about question number one, use (Q-1) at the beginning of the name, then, the name, for instance (MindMolds) and at the ned your name (JohnDoe). So, if you choose "Mind Molds" as the name of your video (in relation to question number one), the whole name of the document in the "ListOfApprovedVideos" should be: "Q-1_MindMolds_JohnDoe.mp4". (Put the YouTube link at its side between parenthesis, so any contributor can click it to see it in YouTube). Be sure to save the name of your video in the proper folder of the 94 sub-folders of the "ListOfApprovedVideos" folder in the main. If maintainers requires, follow their observations to change the name or save your video in the proper folder. Finally, pull the final request.
 
