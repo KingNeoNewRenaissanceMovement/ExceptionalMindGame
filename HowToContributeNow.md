@@ -1,7 +1,7 @@
 # HOW TO CONTRIBUTE NOW
 
 ## WARNING:
-Before contributing we suggest to download the free demoof the philosophical-quiz-board-game (no registration) in our website (https://championsrenaissance.com/shop/). You can see the two video tutorials in YouTube to learn how to play in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). We also suggest to read the Champion's Renaissance book. (It contain the long answers of the 94 questions). You can read for free an extract of the book in the website as well (https://championsrenaissance.com/book-extract-with-no-registration/). We also encourage to read the King Neo New Renaissance Movement page to discover more about its values and motivation (https://championsrenaissance.com/king-neo-new-renaissance-movement/) and the GitHub Open-Source Projects page (https://championsrenaissance.com/github-open-source-projects/). 
+Before contributing we suggest to download the free demo version of the philosophical-quiz-board-game (no registration) in our website (https://championsrenaissance.com/shop/). You can see the two video tutorials in YouTube to learn how to play in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). We also suggest to read the Champion's Renaissance book. (It contain the long answers of the 94 questions). You can read for free an extract of the book in the website as well (https://championsrenaissance.com/book-extract-with-no-registration/). We also encourage to read the King Neo New Renaissance Movement page to discover more about its values and motivation (https://championsrenaissance.com/king-neo-new-renaissance-movement/) and the GitHub Open-Source Projects page (https://championsrenaissance.com/github-open-source-projects/). 
 
 #### INTRODUCTION
 
