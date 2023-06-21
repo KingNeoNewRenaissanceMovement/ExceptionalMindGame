@@ -6,7 +6,10 @@ Below you will see the 3 simple steps on how to contribute. But before we sugges
 ## INTRODUCTION
 
 After this introduction read below a 3 STEP guide on how to contribute. 
-The first thing you need to understand is that each video is made of two parts. 
+The first thing you need to understand is that each video is made of two parts.
+
+#### THE ANIMATION O BEGIN AND END EACH VIDEO
+Each video starts with a short 7 seconds animation and it ends with the same. It is called "AnimationToStartAndEnd". At the moment of the edition, you will put it at the beginning and at the end of each video. You can find it in our YouTube Channel here.  (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). 
 
 #### THE FIRST PART OF EACH VIDEO
 Let us begin explaining the first part. The first part of the video is a short part (near 10% of its length). It contains the text of one question and answer. (The contributor can choose one of the 94 questions and answers from the "94QuestionsAndAnswersText" document in the main). The number, question and answer must be shown in the video in text and/or with voice. The text cannot be changed because the questions and answers are under the CC BY-ND license (https://creativecommons.org/licenses/by-nd/4.0/legalcode). This license lets others reuse the work for any purpose, including commercially; however, it cannot be shared with others in adapted form (no changes allowed) and credit must be provided to the original. But images can be added in connection to the original text. The reasonable attribution required for the videos is to mention the philosophic-quiz-game in them and provide a link to download it. (See the "ExampleVideoTextCreation" document in the main). That is all you need to know about the first part of each video. Now let us explain the second part of it.
@@ -40,6 +43,24 @@ Before all, you need to fork this repository and clone it into your own account.
 2.	Identify each document with (a) the number of the question, (b) the name to the file and (c) your name (in the following examples, your name will be John and lastname Doe). For images use, for example: “q_1_WhiteRose_JohnDoe.png” or “q_1_SailboatSailingDroneView_JohnDoe.jpge”. For music: “q_1_BachOperture_JohnDoe.mp3”. For sound: “q_1_BigBenBell_JohnDoe.mp3”. For animations: q_1_PyramidAllegoryAnimation_JohnDoe.blend in case for a Blender animation. Follow the same criteria with other format files or extensions.
 3.  Store the document in the proper folder in the main (images, animations, draws, blender, etc.).
 
-## STEP 3: Edit and upload the video to YouTube
-Edit your video in a video editor of your preference and upload the video to YouTube (without making it public). Make a pull request showing the link of the YouTube video so the maintainers can see it. Make changes if maintainers requires to. Repeat the process untill the video is approved by the maintainers. Then upload the video to YouTube and change its status to PUBLIC. After that, pull a request to save and store the link of your final video in the "ListOfApprovedVideos" folder in the main. (It contains 94 sub-folders, one per question). To save and store your video name it as follows. For example, id the video is about question number one, use (Q-1) at the beginning of the name, then, the name, for instance (MindMolds) and at the ned your name (JohnDoe). So, if you choose "Mind Molds" as the name of your video (in relation to question number one), the whole name of the document in the "ListOfApprovedVideos" should be: "Q-1_MindMolds_JohnDoe.mp4". (Put the YouTube link at its side between parenthesis, so any contributor can click it to see it in YouTube). Be sure to save the name of your video in the proper folder of the 94 sub-folders of the "ListOfApprovedVideos" folder in the main. If maintainers requires, follow their observations to change the name or save your video in the proper folder. Finally, pull the final request.
+## STEP 3: Edit, upload the video to YouTube and store it when ready
+Edit your video in a video editor of your preference. After upload the video to YouTube (without making it public). Make a pull request showing the link of the YouTube video so the maintainers can see it. Make changes if maintainers requires to. Repeat the process untill the video is approved. Then upload the video to YouTube and change its status to PUBLIC. After that, pull a request to save and store the link of your final video in the "ListOfApprovedVideos" folder in the main. (It contains 94 sub-folders, one per question). To save and store your video name it as follows. For example, id the video is about question number one, use (Q-1) at the beginning of the name, then, the name, for instance (MindMolds) and at the ned your name (JohnDoe). So, if you choose "Mind Molds" as the name of your video (in relation to question number one), the whole name of the document in the "ListOfApprovedVideos" should be: "Q-1_MindMolds_JohnDoe.mp4". (Put the YouTube link at its side between parenthesis, so any contributor can click it to see it in YouTube). Be sure to save the name of your video in the proper folder of the 94 sub-folders of the "ListOfApprovedVideos" folder in the main. If maintainers requires, follow their observations to change the name or save your video in the proper folder. Finally, pull the final request.
 
+# IMPORTANT FOR EDITION
+
+### VIDEO START WITH ANIMATION
+Start the video with the animation called "AnimationToStartAndEnd". You can find it in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). 
+
+### EDIT THE FIRST PART
+Use the text of the question and its answer without changing or adding words of the sentences. Show them in the screen and speak them. Connect images and audio to enhance them. (This is under the CC BY-ND license and no changes are allowed to the text).
+
+### EDIT THE SECOND PART
+Use the text you already have created for the second part. Use the audio visual material you have selected. Edit the second part smoothly connected to the first part.
+
+### VIDEO END WITH ANIMATION
+End the video with the animation called "AnimationToStartAndEnd". You can find it in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). 
+
+### ATTRIBUTION
+End the video with your name and link to your website below a picture of the game and a link where to download it.
+
+#### (videos are between 1 to 5 minutes. Videos from 5 to 10 minutes are short-stories for short-fils categories of the Oscars)
