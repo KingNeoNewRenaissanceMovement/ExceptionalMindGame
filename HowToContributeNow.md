@@ -44,23 +44,6 @@ Before all, you need to fork this repository and clone it into your own account.
 3.  Store the document in the proper folder in the main (images, animations, draws, blender, etc.).
 
 ## STEP 3: Edit, upload the video to YouTube and store it when ready
-Edit your video in a video editor of your preference. After upload the video to YouTube (without making it public). Make a pull request showing the link of the YouTube video so the maintainers can see it. Make changes if maintainers requires to. Repeat the process untill the video is approved. Then upload the video to YouTube and change its status to PUBLIC. After that, pull a request to save and store the link of your final video in the "ListOfApprovedVideos" folder in the main. (It contains 94 sub-folders, one per question). To save and store your video name it as follows. For example, id the video is about question number one, use (Q-1) at the beginning of the name, then, the name, for instance (MindMolds) and at the ned your name (JohnDoe). So, if you choose "Mind Molds" as the name of your video (in relation to question number one), the whole name of the document in the "ListOfApprovedVideos" should be: "Q-1_MindMolds_JohnDoe.mp4". (Put the YouTube link at its side between parenthesis, so any contributor can click it to see it in YouTube). Be sure to save the name of your video in the proper folder of the 94 sub-folders of the "ListOfApprovedVideos" folder in the main. If maintainers requires, follow their observations to change the name or save your video in the proper folder. Finally, pull the final request.
-
-# IMPORTANT FOR EDITION
-
-### VIDEO START WITH ANIMATION
-Start the video with the animation called "AnimationToStartAndEnd". You can find it in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). 
-
-### EDIT THE FIRST PART
-Use the text of the question and its answer without changing or adding words of the sentences. Show them in the screen and speak them. Connect images and audio to enhance them. (This is under the CC BY-ND license and no changes are allowed to the text).
-
-### EDIT THE SECOND PART
-Use the text you already have created for the second part. Use the audio visual material you have selected. Edit the second part smoothly connected to the first part.
-
-### VIDEO END WITH ANIMATION
-End the video with the animation called "AnimationToStartAndEnd". You can find it in (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). 
-
-### ATTRIBUTION
-End the video with your name and link to your website below a picture of the game and a link where to download it.
+Edit your video in a video editor of your preference. (See the "EDITION" document in the main of the repository). After upload the video to YouTube (without making it public). Make a pull request showing the link of the YouTube video so the maintainers can see it. Make changes if maintainers requires to. Repeat the process untill the video is approved. Then upload the video to YouTube and change its status to PUBLIC. After that, pull a request to save and store the link of your final video in the "ListOfApprovedVideos" folder in the main. (It contains 94 sub-folders, one per question). To save and store your video name it as follows. For example, id the video is about question number one, use (Q-1) at the beginning of the name, then, the name, for instance (MindMolds) and at the ned your name (JohnDoe). So, if you choose "Mind Molds" as the name of your video (in relation to question number one), the whole name of the document in the "ListOfApprovedVideos" should be: "Q-1_MindMolds_JohnDoe.mp4". (Put the YouTube link at its side between parenthesis, so any contributor can click it to see it in YouTube). Be sure to save the name of your video in the proper folder of the 94 sub-folders of the "ListOfApprovedVideos" folder in the main. If maintainers requires, follow their observations to change the name or save your video in the proper folder. Finally, pull the final request.
 
 #### (videos are between 1 to 5 minutes. Videos from 5 to 10 minutes are short-stories for short-fils categories of the Oscars)
