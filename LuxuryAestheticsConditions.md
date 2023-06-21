@@ -21,3 +21,15 @@ Aristotle’s idea of art has been influential for centuries, and it continues t
 We also share Ayn Rand view of art. She is an intellectual descendant of Aristotle. We share what she expressed in her book "The Romantic Manifesto: A Philosophy of Literature". Also, in another book called "What Art Is: The Esthetic Theory of Ayn Rand". 
 
 In the Ayn Rand Lexicon she says: “Art is a concretization of metaphysics. Art brings man’s concepts to the perceptual level of his consciousness and allows him to grasp them directly, as if they were percepts.” We view art as a kind of special wine of aesthetic pleasure for the human soul, to propel him to become the champion of himself, its own hero, the optimal rational-animal, the man who pursues its eudaimonia. Iliad by Homer and Atlas Shrugged by Ayn Rand are our literature aesthetics references.
+
+### MORE ABOUT OUR AESTHETICS STANDARDS
+Audiovisuals elements must enhance, refine and enrich the intellectual understanding and spread of the videos.
+
+#### NATURAL PATTERNS
+We encourage to create art works derived from natural patterns, abstract or not, that may include natural landscapes like mountains, stars, clouds, waves and sea
+
+#### COLLECTIVE CREATIONS
+Different artists can make collective works, for instance, one producing music, other draws, paintings or artistic photographs, one programmer using Blender to create 3D virtual shapes, other programmer using Godot and another programmer using Davinci Resolve to edit the final video for YouTube. 
+
+#### LUXURY BRANDS AND HIGHT QUALITY INSTITUTIONS
+Luxury art galleries and sponsors of luxury brands, such as Benetau Yatchs, Airbus Helicopters, Rolls-Royce, Rolex or Parker give us refefences of high aesthetics standards. Versailles, Windsor Castle, the Louvre, British Museum as well. Also, our references of high quality standards are the high quality standards of the best universities of the world, such as Tsinghua University, University of Delhi, Cambridge, Oxford, Le Sorbonne, Harvard, MIT, Moscow State University, University of Cape Town, University of Tehran, King AbdulAziz University, University of São Paulo and others best universities and institutions of the world with hight quality standards too.
