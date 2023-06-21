@@ -4,9 +4,9 @@
 
 
 ## PART 2
-(Write your own text to enhance the questions and answer you habe chosen).
+(Write your own text to enhance the questions and answer you have chosen).
 
 
 
 ## ATTRIBUTION
-(Be sure when you upload the video to YouTube to write your name at the end with a link to your website and the name of the philosophical-quiz-game with a link to download it. See in the main the "HowToContributeNow" document to know the details).
+(Be sure when you upload the video to YouTube to write your name at the end with a link to your website and the name of the philosophical-quiz-game with a link to download it. See more in the "HowToContributeNow" and "EDITION" documents).
