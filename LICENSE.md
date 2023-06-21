@@ -15,7 +15,7 @@ The 94 questions and answers is the "license material". They are part of a book 
 #### PLAY THE GAME AND READ THE BOOKS 
 Being the novel, book and game the greater context of the “license material”, we strongly recommend “the licensees” to create their videos after reading them and playing the game. That will allow them a deeper understanding of the context, to enhance their videos creations and to avoid producing “adapted material”, something that is prohibited by the CC BY-ND license.
 
-## TEXT IN TWO PARTS, TWO LICENSES
+## TWO PARTS, TWO LICENSES
 Each video is made of two-parts-text. Part 1 (given text of the 94 questions and answers), is under CC BY-ND license. Part 2 (new text), is under CC BY-SA license. 
 
 ### PART 1 LICENSE CC BY-ND
