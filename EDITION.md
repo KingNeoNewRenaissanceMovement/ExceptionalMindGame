@@ -1,7 +1,7 @@
 # EDITION
 Edit with the editor of your preference.
 
-### VIDEO EDITION START WITH ANIMATION
+### START WITH ANIMATION LOGO
 Start the video with the animation called "AnimationLogoStartAndEnd". You can find it in ([https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA](https://youtu.be/a_y764Gqn8E)). 
 
 ### EDIT THE FIRST PART
@@ -10,7 +10,7 @@ Use the text of the question and its answer without changing or adding words of 
 ### EDIT THE SECOND PART
 Use the text you already have created for the second part. Use the audio visual material you have selected. Edit the second part smoothly connected to the first part. (This is under the CC BY-SA license. You can add new text and audiovisual material for a better explanation of the first part).
 
-### VIDEO END WITH ANIMATION
+### END WITH ANIMATION LOGO
 End the video with the animation called "AnimationLogoStartAndEnd". You can find it in ([https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA](https://youtu.be/a_y764Gqn8E)). 
 
 ### ATTRIBUTION
