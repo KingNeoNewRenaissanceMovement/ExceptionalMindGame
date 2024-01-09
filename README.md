@@ -2,7 +2,7 @@
 
 ### WELCOME! 
 
-Before start contributing, and to get familiarized with the 94 questions and answers, dowload the free video demonstration of the philosophical-quiz-game (no registration required) here (https://championsrenaissance.com/shop/). The "HowToContributeNow" document in the main explains how to do it in 3 simple steps. 
+Before start contributing, and to get familiarized with the 94 questions and answers, dowload the free version demonstration of the philosophical-quiz-game (no registration required) here https://championsrenaissance.com/download-free-game/. The "HowToContributeNow" document in the main explains how to do it in 3 simple steps. 
 
 ### WHAT DO WE DO
 In this repository we use the best "explainer-video-software" to explain one question and answer (one per video) of the 94 questions and answers of a philosophic-quiz-game called Exceptional Mind and its book of answers, called Champion's Renaissance, both created by the architect and writer Charles Kocian. See examples and the tutorial of the game in our YouTube Channel. (https://www.youtube.com/channel/UCvjSXRls4qmi2DdgbDb9iaA). 
